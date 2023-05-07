@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FikriHaikal_Chal5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_you_have_an_account_sign_up">Don\'t you have an account? Sign Up</string>
+    <string name="english">English</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="register">Register</string>
+    <string name="inputEmail">Input Email</string>
+    <string name="inputPassword">Input Password</string>
+    <string name="inputRePassword">Re-Input Password</string>
+    <string name="emailRequired">Email Required</string>
+    <string name="invalidEmail">Invalid e-mail</string>
+    <string name="passwordIsRequired">password is required</string>
+    <string name="minimumCharacterPassword">minimum 6 character password</string>
+    <string name="loginSuccess">Login Success!</string>
+    <string name="profile">Profile</string>
+    <string name="enter_new_email">Enter New Email</string>
+    <string name="enter_new_username">Enter New Username</string>
+    <string name="enter_your_date_of_birth">Enter your date of birth</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="update">Update</string>
+    <string name="logout">Logout</string>
+    <string name="pilih_bahasa">Select a Language</string>
+</resources>

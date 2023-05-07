@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "481288860995",
+    "project_id": "loginregister-709a2",
+    "storage_bucket": "loginregister-709a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481288860995:android:a0153c0413dcd842daabf6",
+        "android_client_info": {
+          "package_name": "com.example.fikrihaikal_chal5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481288860995-lpb92bsme115hfuv72jrtiqtfb4rer03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fikrihaikal_chal5",
+            "certificate_hash": "cdbcc95b31dfaf1529f3ae84b3e3484314093a77"
+          }
+        },
+        {
+          "client_id": "481288860995-0862clstqrs4k25vhoi1dgcjdorepomg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCQ12w_w12dqRuoar-QJL_pS1DnDWdjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481288860995-0862clstqrs4k25vhoi1dgcjdorepomg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
